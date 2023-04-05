@@ -1,0 +1,7 @@
+Comandos do Git
+
+Git init - Cria um repositorio
+Git cd - Navega entra as pastas
+Git add - Adiciona os arquivos, em especifico ou todos
+Git commit -  preparo o meu arquivo para ser enviado, colocando uma mensagem
+Git push - Envia os arquivos para a Nuvem, ou seja o servidor remoto
